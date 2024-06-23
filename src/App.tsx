@@ -1,13 +1,10 @@
 
-
-
-function App() {
-
+const App = () => {
   return (
-    <div className="">
-      hello world in advance
+    <div>
+    react code
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
